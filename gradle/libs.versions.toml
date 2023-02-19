@@ -35,6 +35,6 @@ testfx = [
 ]
 
 [plugins]
-gitSemVer = "org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin:0.4.0"
+gitSemVer = "org.danilopianini.git-sensitive-semantic-versioning-gradle-plugin:1.0.2"
 javafx = "org.openjfx.javafxplugin:0.0.13"
 shadowJar = "com.github.johnrengelman.shadow:6.1.0"
