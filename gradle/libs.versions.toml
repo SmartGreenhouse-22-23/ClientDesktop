@@ -1,7 +1,7 @@
 [versions]
 vertx = "4.3.8"
 junit = "5.8.1"
-vertxTest = "4.3.8"
+vertxTest = "4.4.0"
 gson = "2.8.8"
 testfx = "4.0.16-alpha"
 awaitility = "3.1.6"
