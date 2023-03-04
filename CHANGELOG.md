@@ -1,3 +1,16 @@
+## [1.1.2](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.1...1.1.2) (2023-03-04)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency gradle to v8.0.2 ([8d1155e](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/8d1155edaa68387464183b1a9cb3010166a3a501))
+* **deps:** update dependency io.vertx:vertx-junit5 to v4.4.0 ([57e81ed](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/57e81ed43b989244878234a3b6f1ab9412c0be93))
+* **deps:** update plugin gitsemver to v1.1.1 ([0f3201e](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/0f3201ec42b1043447b28442e3e5cc749e6d7f95))
+* **deps:** update plugin gitsemver to v1.1.2 ([c6e1c39](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/c6e1c3959be9764d246b2e71eb55728bcfa840f8))
+* **deps:** update plugin shadowjar to v8 ([c34ad78](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/c34ad786e2ec8f40ec2c4551b1d46a953a4c33af))
+* **deps:** update plugin shadowjar to v8.1.0 ([97c9983](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/97c9983f3e282cf644724e50008ff8fd2243e7ff))
+* **deps:** update vertx to v4.4.0 ([884dde9](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/884dde9293685fa7dacb93f9e586a07a4de8931f))
+
 ## [1.1.1](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.0...1.1.1) (2023-02-19)
 
 
