@@ -1,3 +1,15 @@
+## [1.1.4](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.3...1.1.4) (2023-04-22)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency gradle to v8.1.1 ([fc807b7](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/fc807b760b9c530e0c26538074e8c2c35a93a2c7))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.24 ([b9891fa](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/b9891fa614083ebf945f26e65e8ab54f418450f4))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.25 ([901481e](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/901481ec16ece342d9dd34d2c1ea0a9176f6ad49))
+* **deps:** update plugin gitsemver to v1.1.7 ([5a0c3dd](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/5a0c3dd7f4d8f09bae0adf922b1d076aa45f9d1b))
+* **deps:** update plugin gitsemver to v1.1.8 ([3ea62cc](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/3ea62cc21094d8b4dd23824aea622846bb7faa6b))
+* **deps:** update plugin gitsemver to v1.1.9 ([d70de75](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/d70de75c0282e54bad3315d89d1dab5442c3dd6e))
+
 ## [1.1.3](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.2...1.1.3) (2023-04-12)
 
 
