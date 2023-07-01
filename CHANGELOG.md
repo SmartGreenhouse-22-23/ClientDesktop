@@ -1,3 +1,27 @@
+## [1.1.5](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.4...1.1.5) (2023-07-01)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency gradle to v8.2 ([4bd98dc](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/4bd98dc6d39b642e11146e52d2db966c55563ec0))
+* **deps:** update dependency io.vertx:vertx-junit5 to v4.4.2 ([27cf290](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/27cf29050a29ec70a234991a52b24e06ac59fd9c))
+* **deps:** update dependency io.vertx:vertx-junit5 to v4.4.3 ([64f1691](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/64f1691d460ce9605bc25ea41419dea021e0491d))
+* **deps:** update dependency io.vertx:vertx-junit5 to v4.4.4 ([7cc5aef](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/7cc5aef09abf1a6c8cb205216f69a50fcda8b54c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.26 ([53415bb](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/53415bb53c7314427f4ed1f2c60d99eaa7894fa5))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.30 ([123da25](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/123da2508f56f073df407b59aa38ee5b4fc95b3e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.32 ([0db6d0f](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/0db6d0fe0203b808ed71a4cfd3095651d9faa5ba))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.33 ([e0434a9](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/e0434a98c1d237be184291c2ac90cefa16d49bf8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.34 ([a8b2a1f](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/a8b2a1f0a2214c0adf61c01c2d4dd1364ce3ecab))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.35 ([89c0bd5](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/89c0bd5ff3fb4398fcf9ea4bb24625a002375904))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.37 ([1324fea](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/1324fea0a053a15828876b2f7e32580a796523f3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.38 ([1d86591](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/1d86591c7296a1e223a35d12ae66fb419ad44313))
+* **deps:** update junit5 monorepo to v5.9.3 ([c39e1c8](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/c39e1c8d3554bcfc876eaae3e630058f2df670da))
+* **deps:** update plugin gitsemver to v1.1.10 ([c9e94d5](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/c9e94d589509b4ad2e0716483e9667c9ad786f64))
+* **deps:** update plugin javafx to v0.0.14 ([a1514fc](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/a1514fce587898e8ed769de345ef052ed1848dc8))
+* **deps:** update vertx to v4.4.2 ([7468c3e](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/7468c3e5e9896d7c9540a7dd142cfc556d6e7a52))
+* **deps:** update vertx to v4.4.3 ([019ef09](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/019ef09f74fc11737d63f2c8f67812d73505c8fb))
+* **deps:** update vertx to v4.4.4 ([24cdb24](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/24cdb246b28f8ddc89b4697b47c3f7dd165f3360))
+
 ## [1.1.4](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.3...1.1.4) (2023-04-22)
 
 
