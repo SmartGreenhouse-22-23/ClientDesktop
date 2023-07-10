@@ -1,3 +1,11 @@
+## [1.1.6](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.5...1.1.6) (2023-07-10)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency gradle to v8.2.1 ([9556374](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/9556374488470ab8bd5327bc7e96d61bf08cba9c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.39 ([7016f31](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/7016f312b467b6a0f766d8779803507997374ad8))
+
 ## [1.1.5](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.4...1.1.5) (2023-07-01)
 
 
