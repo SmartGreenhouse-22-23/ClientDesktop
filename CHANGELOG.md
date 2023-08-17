@@ -1,3 +1,15 @@
+## [1.1.7](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.6...1.1.7) (2023-08-17)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency gradle to v8.3 ([d62e087](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/d62e087bf51b58007286fc4b8767fa4db2f24579))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.40 ([c1c8cbf](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/c1c8cbf538fcf673de186d6e35fb6b8064a95efc))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.41 ([e917b15](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/e917b152d25e5da17b90e00bc1c8382c0533d390))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.42 ([a30226c](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/a30226c0bebb00c1e92a3b8a286d6ba6b5986371))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.43 ([7cf316e](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/7cf316ebb3370816d060691af4d32a8e6f9aa441))
+* **deps:** update junit5 monorepo to v5.10.0 ([9d49611](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/9d496110d31babe0e5b1091fc3743c7a384a7ee0))
+
 ## [1.1.6](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.5...1.1.6) (2023-07-10)
 
 
