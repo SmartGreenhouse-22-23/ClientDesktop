@@ -1,6 +1,6 @@
 [versions]
 vertx = "4.4.6"
-junit = "5.10.0"
+junit = "5.10.1"
 vertxTest = "4.4.6"
 gson = "2.8.8"
 testfx = "4.0.16-alpha"
