@@ -1,3 +1,21 @@
+## [1.1.11](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.10...1.1.11) (2024-03-22)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency gradle to v8.7 ([fd9a6f8](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/fd9a6f882c388a1ec4b307b2fca8ee29be4a351a))
+* **deps:** update dependency io.vertx:vertx-junit5 to v4.5.3 ([b45d915](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/b45d91563e7757a4921c3d755180cd666cfd5284))
+* **deps:** update dependency io.vertx:vertx-junit5 to v4.5.4 ([8dd2a8b](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/8dd2a8b2c7111ec86b66f036761bab9441d0f5c8))
+* **deps:** update dependency io.vertx:vertx-junit5 to v4.5.5 ([40485b1](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/40485b1f50219e7bbae6e6e7b297bf78cd2de3ed))
+* **deps:** update dependency io.vertx:vertx-junit5 to v4.5.6 ([0a5f8f6](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/0a5f8f6419e19f98d7b415f5f5c1fdff6ebdb81a))
+* **deps:** update junit5 monorepo to v5.10.2 ([f7e00b2](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/f7e00b2cf5623a5cae8c0dd28793d64ffc133ece))
+* **deps:** update plugin gitsemver to v3.1.1 ([a492a8d](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/a492a8ddb0161ae1f6423e50c1631bbe6f06a3c0))
+* **deps:** update plugin gitsemver to v3.1.2 ([7bb032e](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/7bb032e4ccdd470ab86843af9578c92a1f1da286))
+* **deps:** update plugin gitsemver to v3.1.3 ([c8b30f7](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/c8b30f72f13f26796ac29bd875789c97553247f7))
+* **deps:** update vertx to v4.5.4 ([53512f4](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/53512f4dad9fee2d45764d2b44f7594eb19983ca))
+* **deps:** update vertx to v4.5.5 ([9cb0479](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/9cb0479f32095c51c2cc2e54e9a042994638d515))
+* **deps:** update vertx to v4.5.6 ([102b82a](https://github.com/SmartGreenhouse-22-23/ClientDesktop/commit/102b82af7fc645b90027c4cf7b1aec3f8ae999fd))
+
 ## [1.1.10](https://github.com/SmartGreenhouse-22-23/ClientDesktop/compare/1.1.9...1.1.10) (2024-02-02)
 
 
