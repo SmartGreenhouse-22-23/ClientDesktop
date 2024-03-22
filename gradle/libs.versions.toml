@@ -1,5 +1,5 @@
 [versions]
-vertx = "4.5.5"
+vertx = "4.5.6"
 junit = "5.10.2"
 vertxTest = "4.5.6"
 gson = "2.8.8"
