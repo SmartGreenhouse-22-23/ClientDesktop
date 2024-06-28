@@ -39,7 +39,7 @@ dependencies {
     testImplementation(libs.bundles.testfx)
     testImplementation(libs.junit.api)
     testRuntimeOnly(libs.junit.engine)
-    testImplementation("org.skyscreamer:jsonassert:1.5.1")
+    testImplementation("org.skyscreamer:jsonassert:1.5.3")
 }
 
 tasks.getByName<Test>("test") {
